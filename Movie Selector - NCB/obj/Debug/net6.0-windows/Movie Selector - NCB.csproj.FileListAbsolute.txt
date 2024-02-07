@@ -1,0 +1,16 @@
+E:\C#\New folder\Movie Selector - NCB\bin\Debug\net6.0-windows\Movie Selector - NCB.exe
+E:\C#\New folder\Movie Selector - NCB\bin\Debug\net6.0-windows\Movie Selector - NCB.deps.json
+E:\C#\New folder\Movie Selector - NCB\bin\Debug\net6.0-windows\Movie Selector - NCB.runtimeconfig.json
+E:\C#\New folder\Movie Selector - NCB\bin\Debug\net6.0-windows\Movie Selector - NCB.dll
+E:\C#\New folder\Movie Selector - NCB\bin\Debug\net6.0-windows\Movie Selector - NCB.pdb
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie_Selector___NCB.Movie.resources
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.csproj.GenerateResource.cache
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.AssemblyInfoInputs.cache
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.AssemblyInfo.cs
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.csproj.CoreCompileInputs.cache
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.dll
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\refint\Movie Selector - NCB.dll
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.pdb
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\Movie Selector - NCB.genruntimeconfig.cache
+E:\C#\New folder\Movie Selector - NCB\obj\Debug\net6.0-windows\ref\Movie Selector - NCB.dll
